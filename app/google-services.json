@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492522077140",
+    "firebase_url": "https://map19firestoreandroid.firebaseio.com",
+    "project_id": "map19firestoreandroid",
+    "storage_bucket": "map19firestoreandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492522077140:android:a3a857f4b4d6947065b441",
+        "android_client_info": {
+          "package_name": "com.example.firestoreintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492522077140-dpn7mv9607n73ku22t62b02ct9vtd8dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4D1A2MTDPrbpYqKjm6Kn333-ZtKDrM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492522077140-dpn7mv9607n73ku22t62b02ct9vtd8dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
